@@ -11,6 +11,8 @@ there is no Pillow and no font file to load; the lettering is a small bitmap
 font embedded below, rendered at 2x and downsampled for smooth edges).
 
 Deterministic: the same input always produces the same PNG bytes.
+Rebuilt in a fresh post-open session so the entry's transcripts cover
+every line of this file; the picture itself is unchanged from the draft.
 """
 
 import os
